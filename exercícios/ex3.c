@@ -9,7 +9,7 @@ int fibonacci(int n) {
 }
 
 int main() {
-    int n;
+    double n;
     printf("Digite o valor de n: ");
     scanf("%d", &n);
     
